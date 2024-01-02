@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lo-Molts382
 - 👀 I’m interested in coding, gaming, sports, working out, and walking my dog!
-- 🌱 I’m currently learning HTML, CSS, Javascript, C, and Python!
+- 🌱 Languages: HTML/CSS/JS/PHP, C, Java, Python, MATLAB
 - 📫 How to reach me through my email address at lanzimalto@su.edu.ph
 
 <!---
